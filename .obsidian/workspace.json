@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "83a6ca264ca43ea2",
+        "id": "bc69218009bd8c7c",
         "type": "tabs",
         "children": [
           {
-            "id": "2d2086f24a0b6602",
+            "id": "10f565cf35e6a2a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/Computer Science.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "853e727352e31951",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "private/Second Brain.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "private/Second Brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "private/Second Brain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "private/Second Brain.md"
               }
             }
           }
@@ -159,34 +146,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "853e727352e31951",
+  "active": "10f565cf35e6a2a2",
   "lastOpenFiles": [
+    "cooking/Cooking.md",
+    "private/Second Brain.md",
+    "private/dev/Dev.md",
+    "private/dev/Mind Set.md",
+    "private/dev/Open Source Contributions.md",
+    "computer-science/web/devops/Terraform.md",
+    "computer-science/web/devops/Ansible.md",
+    "computer-science/web/devops/GitHub Actions.md",
+    "computer-science/web/devops/Monlit.md",
+    "computer-science/web/devops/AWS Services.md",
+    "computer-science/web/devops/Linux.md",
+    "computer-science/web/devops/Devops.md",
+    "computer-science/web/backend/Redis.md",
+    "computer-science/web/devops",
+    "computer-science/web/backend/JWT Authentication.md",
+    "computer-science/web/backend/RESTful API.md",
+    "computer-science/web/backend/PostgreSQL.md",
+    "computer-science/web/frontend/CSS.md",
+    "computer-science/languages/javascript/nodejs/Node.js.md",
+    "computer-science/web/frontend/Tailwind.md",
+    "computer-science/languages/javascript/React.md",
+    "computer-science/team/version-control/GitHub.md",
+    "computer-science/team/version-control/Git.md",
+    "computer-science/languages/javascript/NPM.md",
     "computer-science/Computer Science.md",
-    "README.md",
-    "computer-science/languages/javascript/jest/JEST.md",
+    "computer-science/dsa/algo/Algorithms.md",
+    "technology.md",
+    "computer-science/web/backend",
+    "computer-science/web/frontend",
+    "computer-science/web",
+    "computer-science/dsa/data-struct",
+    "computer-science/dsa/algo",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
     "computer-science/team/methods",
     "computer-science/team/version-control",
-    "computer-science/languages/javascript/Javascript.md",
     "computer-science/languages/javascript/jest",
-    "computer-science/languages/javascript/nodejs",
-    "computer-science/languages/javascript",
-    "computer-science/dsa/Recursion.md",
-    "computer-science/languages",
-    "computer-science/team",
-    "private/dev/Open Source.md",
-    "private/dev/Useful Links.md",
-    "private/dev/Social  Media Plan.md",
-    "private/dev/Mind Set.md",
-    "private/dev/Road Maps.md",
-    "private/personal/to-do/TODO.md",
-    "private/personal/journal",
-    "private/personal/to-do/Chores.md",
-    "private/personal/to-do/Backlog.md",
-    "private/personal/to-do/Dailies.md",
-    "private/personal/to-do",
-    "cooking/chinese/Beef Chow Fun.md",
-    "cooking/chinese/Chinese Cooking.md",
-    "cooking/chinese",
-    "private/dev/projects/Projects.md"
+    "computer-science/languages/javascript/nodejs"
   ]
 }
