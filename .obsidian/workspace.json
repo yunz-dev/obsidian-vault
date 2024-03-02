@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/Roadmaps.md",
+                "file": "computer-science/Computer Science.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/Roadmaps.md",
+                "file": "computer-science/Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/Roadmaps.md",
+                "file": "computer-science/Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/Roadmaps.md"
+                "file": "computer-science/Computer Science.md"
               }
             }
           }
@@ -146,10 +146,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "373627bc237f975c",
+  "active": "2d2086f24a0b6602",
   "lastOpenFiles": [
-    "private",
-    "personal/Roadmaps.md",
-    "personal"
+    "computer-science/languages/javascript/jest/JEST.md",
+    "computer-science/Computer Science.md",
+    "computer-science/team/methods",
+    "computer-science/team/version-control",
+    "computer-science/languages/javascript/Javascript.md",
+    "computer-science/languages/javascript/jest",
+    "computer-science/languages/javascript/nodejs",
+    "computer-science/languages/javascript",
+    "computer-science/dsa/Recursion.md",
+    "computer-science/languages",
+    "computer-science/team",
+    "private/dev/Open Source.md",
+    "private/dev/Useful Links.md",
+    "private/dev/Social  Media Plan.md",
+    "private/dev/Mind Set.md",
+    "private/dev/Road Maps.md",
+    "private/personal/to-do/TODO.md",
+    "private/personal/journal",
+    "private/personal/to-do/Chores.md",
+    "private/personal/to-do/Backlog.md",
+    "private/personal/to-do/Dailies.md",
+    "private/personal/to-do",
+    "cooking/chinese/Beef Chow Fun.md",
+    "cooking/chinese/Chinese Cooking.md",
+    "cooking/chinese",
+    "private/dev/projects/Projects.md"
   ]
 }
