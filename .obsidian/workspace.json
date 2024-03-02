@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "853e727352e31951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/Computer Science.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer-science/Computer Science.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer-science/Computer Science.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d2086f24a0b6602",
+  "active": "853e727352e31951",
   "lastOpenFiles": [
-    "computer-science/languages/javascript/jest/JEST.md",
     "computer-science/Computer Science.md",
+    "README.md",
+    "computer-science/languages/javascript/jest/JEST.md",
     "computer-science/team/methods",
     "computer-science/team/version-control",
     "computer-science/languages/javascript/Javascript.md",
