@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10f565cf35e6a2a2",
+            "id": "99f01be4b9b05b21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/Second Brain.md",
+                "file": "private/personal/to-do/Chores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dce22d3169445378",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/vim/Vim Horizontal Motions.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:personal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/Second Brain.md",
+                "file": "private/personal/to-do/Chores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/Second Brain.md",
+                "file": "private/personal/to-do/Chores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/Second Brain.md"
+                "file": "private/personal/to-do/Chores.md"
               }
             }
           }
@@ -133,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 366,
     "collapsed": true
   },
   "left-ribbon": {
@@ -146,35 +158,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10f565cf35e6a2a2",
+  "active": "99f01be4b9b05b21",
   "lastOpenFiles": [
-    "cooking/Cooking.md",
-    "private/Second Brain.md",
+    "computer-science/vim/Vim Motions.md",
+    "computer-science/vim/Vim Advanced Motions.md",
+    "computer-science/vim/Vim Horizontal Motions.md",
+    "computer-science/vim/Vim Basic Motions.md",
+    "computer-science/vim/Vim Vertical Motions.md",
+    "cooking/chinese/Chinese Cooking.md",
+    "computer-science/vim",
     "private/dev/Dev.md",
-    "private/dev/Mind Set.md",
-    "private/dev/Open Source Contributions.md",
-    "computer-science/web/devops/Terraform.md",
-    "computer-science/web/devops/Ansible.md",
-    "computer-science/web/devops/GitHub Actions.md",
-    "computer-science/web/devops/Monlit.md",
-    "computer-science/web/devops/AWS Services.md",
-    "computer-science/web/devops/Linux.md",
-    "computer-science/web/devops/Devops.md",
-    "computer-science/web/backend/Redis.md",
-    "computer-science/web/devops",
-    "computer-science/web/backend/JWT Authentication.md",
-    "computer-science/web/backend/RESTful API.md",
-    "computer-science/web/backend/PostgreSQL.md",
-    "computer-science/web/frontend/CSS.md",
-    "computer-science/languages/javascript/nodejs/Node.js.md",
-    "computer-science/web/frontend/Tailwind.md",
-    "computer-science/languages/javascript/React.md",
-    "computer-science/team/version-control/GitHub.md",
-    "computer-science/team/version-control/Git.md",
-    "computer-science/languages/javascript/NPM.md",
-    "computer-science/Computer Science.md",
+    "private/Test.canvas",
+    "private/dev/Road Maps.md",
+    "computer-science/dsa/algo/Recursion.md",
     "computer-science/dsa/algo/Algorithms.md",
-    "technology.md",
+    "computer-science/languages/javascript/NPM.md",
+    "computer-science/web/frontend/Frontend.canvas",
+    "computer-science/web/frontend/Frontend.md",
+    "private/dev/projects/Medium.md",
+    "cooking/chinese/Beef Chow Fun.md",
+    "README.md",
+    "private/Second Brain.md",
+    "private/personal/Personal.md",
+    "private/personal/to-do/TODO.md",
+    "private/personal/to-do/Today-do.md",
+    "private/personal/to-do/Delegate.md",
+    "private/dev/Social  Media Plan.md",
+    "computer-science/Computer Science.md",
+    "computer-science/Software Application.md",
+    "private/personal/to-do/Monthlies.md",
+    "private/personal/to-do/Chores.md",
+    "private/personal/to-do/Backlog.md",
+    "computer-science/web/devops",
     "computer-science/web/backend",
     "computer-science/web/frontend",
     "computer-science/web",
@@ -182,10 +197,8 @@
     "computer-science/dsa/algo",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "Untitled.canvas",
     "computer-science/team/methods",
     "computer-science/team/version-control",
-    "computer-science/languages/javascript/jest",
-    "computer-science/languages/javascript/nodejs"
+    "computer-science/languages/javascript/jest"
   ]
 }

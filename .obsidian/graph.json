@@ -1,22 +1,58 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:cooking ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:computer-science/web/backend  ",
+      "color": {
+        "a": 1,
+        "rgb": 9589472
+      }
+    },
+    {
+      "query": "path:computer-science/web/frontend  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701214
+      }
+    },
+    {
+      "query": "path:computer-science/web/devops  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:computer-science  ",
+      "color": {
+        "a": 1,
+        "rgb": 5984992
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 2.08832976445396,
+  "lineSizeMultiplier": 2.20024982155603,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.05349794238683,
-  "close": false
+  "scale": 0.7161585618489442,
+  "close": true
 }
