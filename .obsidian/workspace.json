@@ -4,30 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bc69218009bd8c7c",
+        "id": "b0bf7b82e37692c2",
         "type": "tabs",
         "children": [
           {
-            "id": "99f01be4b9b05b21",
+            "id": "6f490c7b3e80858b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/personal/to-do/Chores.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dce22d3169445378",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer-science/vim/Vim Horizontal Motions.md",
-                "mode": "source",
-                "source": false
+                "file": "computer-science/languages/rust/Cargo.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/personal/to-do/Chores.md",
+                "file": "computer-science/languages/rust/Cargo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/personal/to-do/Chores.md",
+                "file": "computer-science/languages/rust/Cargo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/personal/to-do/Chores.md"
+                "file": "computer-science/languages/rust/Cargo.md"
               }
             }
           }
@@ -158,37 +146,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99f01be4b9b05b21",
+  "active": "6f490c7b3e80858b",
   "lastOpenFiles": [
     "computer-science/vim/Vim Motions.md",
-    "computer-science/vim/Vim Advanced Motions.md",
-    "computer-science/vim/Vim Horizontal Motions.md",
-    "computer-science/vim/Vim Basic Motions.md",
-    "computer-science/vim/Vim Vertical Motions.md",
-    "cooking/chinese/Chinese Cooking.md",
-    "computer-science/vim",
-    "private/dev/Dev.md",
-    "private/Test.canvas",
+    "computer-science/languages/rust/Cargo.md",
+    "computer-science/languages/rust/Rust Compilation.md",
+    "computer-science/languages/rust/Rust - Hello World.md",
+    "computer-science/languages/rust/Rust - Anatomy.md",
+    "computer-science/languages/rust/Rust.md",
+    "computer-science/languages/rust/Cargo.toml.md",
+    "computer-science/languages/rust/What is Rust?.md",
+    "private/dev/Useful Links.md",
+    "computer-science/languages/rust",
     "private/dev/Road Maps.md",
-    "computer-science/dsa/algo/Recursion.md",
-    "computer-science/dsa/algo/Algorithms.md",
-    "computer-science/languages/javascript/NPM.md",
-    "computer-science/web/frontend/Frontend.canvas",
-    "computer-science/web/frontend/Frontend.md",
-    "private/dev/projects/Medium.md",
-    "cooking/chinese/Beef Chow Fun.md",
-    "README.md",
-    "private/Second Brain.md",
+    "private/personal/to-do/Backlog.md",
+    "private/personal/to-do/Today-do.md",
+    "private/personal/to-do/Monthlies.md",
+    "private/personal/to-do/House.md",
     "private/personal/Personal.md",
     "private/personal/to-do/TODO.md",
-    "private/personal/to-do/Today-do.md",
-    "private/personal/to-do/Delegate.md",
+    "Pasted image 20240303223147.png",
     "private/dev/Social  Media Plan.md",
-    "computer-science/Computer Science.md",
-    "computer-science/Software Application.md",
-    "private/personal/to-do/Monthlies.md",
+    "Social Media Ideas.md",
+    "private/dev/Social Media Ideas.md",
+    "private/dev/projects/Medium.md",
+    "private/dev/Dev.md",
+    "private/dev/Design Gurus - Grokking the System Design Interview.pdf",
+    "private/dev/SWE ROADMAP.md",
+    "private/personal/journal/Journal.md",
+    "computer-science/vim/Vim Horizontal Motions.md",
     "private/personal/to-do/Chores.md",
-    "private/personal/to-do/Backlog.md",
+    "computer-science/vim/Vim Advanced Motions.md",
+    "computer-science/vim",
+    "private/Test.canvas",
+    "computer-science/web/frontend/Frontend.canvas",
     "computer-science/web/devops",
     "computer-science/web/backend",
     "computer-science/web/frontend",
@@ -197,8 +188,6 @@
     "computer-science/dsa/algo",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "computer-science/team/methods",
-    "computer-science/team/version-control",
-    "computer-science/languages/javascript/jest"
+    "computer-science/team/methods"
   ]
 }

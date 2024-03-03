@@ -1,5 +1,9 @@
 {
   "vimMode": true,
   "promptDelete": false,
-  "showLineNumber": true
+  "showLineNumber": false,
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current"
 }

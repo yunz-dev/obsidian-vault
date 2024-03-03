@@ -11,5 +11,3 @@
 - `<control> + a` - increment number + 1
 - `<control> + z` - increment number - 1
 - `>`, `<` - indent lines
-- `:s/\(\w.*\)/insert_content_here \1` - crazy search and replace
-> `\1` refers to the word copied
