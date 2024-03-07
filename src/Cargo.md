@@ -37,7 +37,7 @@ Run the [[Executable]] with:
 ```bash
 ./taget/debug/project_name
 ```
-Command to build, then executes
+Command to build, then execute
 ```bash
 cargo run
 ```

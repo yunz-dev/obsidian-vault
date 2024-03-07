@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": false,
@@ -7,6 +7,20 @@
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
+    {
+      "query": "path:computer-science/languages/rust  ",
+      "color": {
+        "a": 1,
+        "rgb": 14706514
+      }
+    },
+    {
+      "query": "path:computer-science/languages/javascript  ",
+      "color": {
+        "a": 1,
+        "rgb": 14734418
+      }
+    },
     {
       "query": "path:cooking ",
       "color": {
@@ -53,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7161585618489442,
+  "scale": 0.7281188981386709,
   "close": true
 }

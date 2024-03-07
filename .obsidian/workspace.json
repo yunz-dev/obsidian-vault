@@ -13,8 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/languages/rust/Cargo.md",
+                "file": "src/Cargo.md",
                 "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "68c93da5b376acbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d40807206bf4574",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/Rust Foreword.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/languages/rust/Cargo.md",
+                "file": "src/Rust Foreword.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer-science/languages/rust/Cargo.md",
+                "file": "src/Rust Foreword.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer-science/languages/rust/Cargo.md"
+                "file": "src/Rust Foreword.md"
               }
             }
           }
@@ -146,48 +165,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f490c7b3e80858b",
+  "active": "7d40807206bf4574",
   "lastOpenFiles": [
-    "computer-science/vim/Vim Motions.md",
-    "computer-science/languages/rust/Cargo.md",
-    "computer-science/languages/rust/Rust Compilation.md",
-    "computer-science/languages/rust/Rust - Hello World.md",
-    "computer-science/languages/rust/Rust - Anatomy.md",
-    "computer-science/languages/rust/Rust.md",
-    "computer-science/languages/rust/Cargo.toml.md",
-    "computer-science/languages/rust/What is Rust?.md",
-    "private/dev/Useful Links.md",
-    "computer-science/languages/rust",
-    "private/dev/Road Maps.md",
-    "private/personal/to-do/Backlog.md",
-    "private/personal/to-do/Today-do.md",
-    "private/personal/to-do/Monthlies.md",
-    "private/personal/to-do/House.md",
-    "private/personal/Personal.md",
-    "private/personal/to-do/TODO.md",
-    "Pasted image 20240303223147.png",
-    "private/dev/Social  Media Plan.md",
-    "Social Media Ideas.md",
-    "private/dev/Social Media Ideas.md",
-    "private/dev/projects/Medium.md",
-    "private/dev/Dev.md",
-    "private/dev/Design Gurus - Grokking the System Design Interview.pdf",
-    "private/dev/SWE ROADMAP.md",
-    "private/personal/journal/Journal.md",
-    "computer-science/vim/Vim Horizontal Motions.md",
-    "private/personal/to-do/Chores.md",
-    "computer-science/vim/Vim Advanced Motions.md",
-    "computer-science/vim",
-    "private/Test.canvas",
-    "computer-science/web/frontend/Frontend.canvas",
-    "computer-science/web/devops",
-    "computer-science/web/backend",
-    "computer-science/web/frontend",
-    "computer-science/web",
-    "computer-science/dsa/data-struct",
-    "computer-science/dsa/algo",
-    "Untitled 1.canvas",
+    "priv/personal/to-do/Backlog.md",
+    "src/Cargo.md",
+    "src/Untitled.md",
+    "Untitled.canvas",
+    "priv/personal/Bare Minimum Habits.md",
+    "priv/personal/to-do/Today-do.md",
+    "priv/personal/to-do/House.md",
+    "priv/personal/to-do/Dailies.md",
+    "priv/personal/journal/Journal.md",
+    "priv/personal/to-do/Delegate.md",
+    "priv/personal/to-do/TODO.md",
+    "src/computer-science/web/frontend/Frontend.canvas",
+    "src/Vim Advanced Motions.md",
+    "src/Vim Basic Motions.md",
+    "src",
+    "src/Rust - Anatomy.md",
+    "src/Rust.md",
+    "Untitled 5.canvas",
+    "Untitled 6.canvas",
+    "Untitled 7.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
     "Untitled 2.canvas",
-    "computer-science/team/methods"
+    "Untitled 1.canvas",
+    "priv/dev/projects/Projects.md",
+    "priv/personal/to-do/Project.md",
+    "priv/dev/projects/Medium.md",
+    "priv/dev/Dev.md",
+    "priv/personal/Habits.md",
+    "priv/personal/Personal.md",
+    "priv/personal/Routine.md",
+    "src/Software Application.md",
+    "src/Vim Motions.md",
+    "src/Cargo.toml.md",
+    "src/Computer Science.md",
+    "priv/dev/Useful Links.md",
+    "priv/Test.canvas",
+    "src/languages/rust",
+    "Pasted image 20240303223147.png",
+    "priv/dev/Design Gurus - Grokking the System Design Interview.pdf",
+    "src/computer-science/vim",
+    "src/computer-science/web/devops",
+    "src/computer-science/web/backend",
+    "src/frontend",
+    "src/computer-science/web",
+    "src/dsa/data-struct",
+    "src/dsa/algo"
   ]
 }
