@@ -1,7 +1,7 @@
 make a program called hello.rs
 ```rust
 fn main() {
-println!("hello world");
+	println!("hello world");
 }
 ```
  program can be run by following the shell commands:

@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "b0bf7b82e37692c2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6f490c7b3e80858b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/Cargo.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "68c93da5b376acbf",
         "type": "tabs",
         "children": [
@@ -32,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/Rust Foreword.md",
-                "mode": "source",
+                "file": "src/Vim Vertical Motions.md",
+                "mode": "preview",
+                "backlinks": true,
                 "source": true
               }
             }
@@ -104,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Rust Foreword.md",
+                "file": "src/Vim Vertical Motions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Rust Foreword.md",
+                "file": "src/Vim Vertical Motions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/Rust Foreword.md"
+                "file": "src/Vim Vertical Motions.md"
               }
             }
           }
@@ -167,23 +149,37 @@
   },
   "active": "7d40807206bf4574",
   "lastOpenFiles": [
-    "priv/personal/to-do/Backlog.md",
-    "src/Cargo.md",
-    "src/Untitled.md",
-    "Untitled.canvas",
-    "priv/personal/Bare Minimum Habits.md",
-    "priv/personal/to-do/Today-do.md",
-    "priv/personal/to-do/House.md",
-    "priv/personal/to-do/Dailies.md",
-    "priv/personal/journal/Journal.md",
-    "priv/personal/to-do/Delegate.md",
-    "priv/personal/to-do/TODO.md",
-    "src/computer-science/web/frontend/Frontend.canvas",
-    "src/Vim Advanced Motions.md",
-    "src/Vim Basic Motions.md",
-    "src",
+    "src/Website.md",
+    "src/Vim Vertical Motions.md",
+    "src/Web Application.md",
+    "src/Web.md",
+    "src/Rust Foreword.md",
+    "src/User Interface.md",
+    "src/User Experience.md",
+    "src/Terraform.md",
+    "src/Tailwind.md",
+    "src/Software Application.md",
+    "src/Server-side Logic.md",
+    "src/Server.md",
+    "src/Rust Compilation.md",
+    "src/Rust - Hello World.md",
     "src/Rust - Anatomy.md",
     "src/Rust.md",
+    "src/Full Stack Development.md",
+    "src/RESTful API.md",
+    "src/Redis.md",
+    "src/Recursion.md",
+    "src/React.md",
+    "src/PostgreSQL.md",
+    "src/NPM.md",
+    "src/Node.js.md",
+    "src/Monlit.md",
+    "src/Linux.md",
+    "Untitled",
+    "templates",
+    "Untitled.canvas",
+    "src/computer-science/web/frontend/Frontend.canvas",
+    "src",
     "Untitled 5.canvas",
     "Untitled 6.canvas",
     "Untitled 7.canvas",
@@ -191,18 +187,6 @@
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "priv/dev/projects/Projects.md",
-    "priv/personal/to-do/Project.md",
-    "priv/dev/projects/Medium.md",
-    "priv/dev/Dev.md",
-    "priv/personal/Habits.md",
-    "priv/personal/Personal.md",
-    "priv/personal/Routine.md",
-    "src/Software Application.md",
-    "src/Vim Motions.md",
-    "src/Cargo.toml.md",
-    "src/Computer Science.md",
-    "priv/dev/Useful Links.md",
     "priv/Test.canvas",
     "src/languages/rust",
     "Pasted image 20240303223147.png",
@@ -211,8 +195,6 @@
     "src/computer-science/web/devops",
     "src/computer-science/web/backend",
     "src/frontend",
-    "src/computer-science/web",
-    "src/dsa/data-struct",
-    "src/dsa/algo"
+    "src/computer-science/web"
   ]
 }

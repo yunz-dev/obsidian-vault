@@ -12,3 +12,5 @@
 - `A` - enter insert mode from end of line
 - `o` - make new line and enter insert mode down
 - `O` - make new line and enter insert mode up
+- `gM` - middle of line, you can also type a number before it to go the that % of the line
+	- e.g `10gM` will go to 10% of the line
