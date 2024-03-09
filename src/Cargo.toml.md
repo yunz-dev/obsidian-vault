@@ -14,4 +14,4 @@ It is written in [[TOML]] format
 	- the section contains statements for [[Package]] [[Configuration]]
 - The `name`, `version` and `edition` are necessary for [[Cargo]] to [[Compile]] the [[Program]]
 - `[dependencies]` section lists project [[Dependencies]]
-	- [[Rust]] refers to [[Package]]s of [[Code]] as [[Crates]]
+	- [[Rust]] refers to [[Package]]s of [[Code Template]] as [[Crates]]

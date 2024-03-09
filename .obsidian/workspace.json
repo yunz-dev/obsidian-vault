@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d40807206bf4574",
+            "id": "590cf3c888f5a038",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/Vim Vertical Motions.md",
-                "mode": "preview",
+                "file": "priv/personal/to-do/Chores.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cae67733cfd22c02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/Rust.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Vim Vertical Motions.md",
+                "file": "src/Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Vim Vertical Motions.md",
+                "file": "src/Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/Vim Vertical Motions.md"
+                "file": "src/Rust.md"
               }
             }
           }
@@ -147,34 +161,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d40807206bf4574",
+  "active": "cae67733cfd22c02",
   "lastOpenFiles": [
-    "src/Website.md",
+    "priv/dev/Road Maps.md",
+    "priv/dev/Untitled 2.md",
+    "priv/dev/Untitled.md",
+    "priv/dev/Untitled 1.md",
+    "priv/dev/Dev.md",
+    "priv/Second Brain.md",
+    "templates/Daily Notes Template.md",
+    "templates/Code Template.md",
+    "templates/QEC Ideas.md",
+    "src/Untitled.md",
+    "src/Algorithms.md",
+    "priv/personal/to-do/Chores.md",
+    "priv/personal/to-do/Weeklies.md",
+    "priv/daily/09-03-24.md",
+    "README.md",
+    "priv/daily",
+    "priv/personal/to-do/Today-do.md",
+    "priv/personal/to-do/TODO.md",
+    "priv/personal/to-do/Backlog.md",
+    "priv/personal/sec/Secretary stuff.md",
+    "priv/personal/sec",
     "src/Vim Vertical Motions.md",
+    "src/HTTP Response Status Codes.md",
+    "src/Website.md",
     "src/Web Application.md",
     "src/Web.md",
     "src/Rust Foreword.md",
     "src/User Interface.md",
-    "src/User Experience.md",
-    "src/Terraform.md",
-    "src/Tailwind.md",
-    "src/Software Application.md",
-    "src/Server-side Logic.md",
-    "src/Server.md",
-    "src/Rust Compilation.md",
-    "src/Rust - Hello World.md",
-    "src/Rust - Anatomy.md",
-    "src/Rust.md",
-    "src/Full Stack Development.md",
-    "src/RESTful API.md",
-    "src/Redis.md",
-    "src/Recursion.md",
-    "src/React.md",
-    "src/PostgreSQL.md",
-    "src/NPM.md",
-    "src/Node.js.md",
-    "src/Monlit.md",
-    "src/Linux.md",
     "Untitled",
     "templates",
     "Untitled.canvas",
@@ -193,8 +209,6 @@
     "priv/dev/Design Gurus - Grokking the System Design Interview.pdf",
     "src/computer-science/vim",
     "src/computer-science/web/devops",
-    "src/computer-science/web/backend",
-    "src/frontend",
-    "src/computer-science/web"
+    "src/computer-science/web/backend"
   ]
 }
