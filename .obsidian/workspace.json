@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "priv/personal/to-do/Chores.md",
+                "file": "src/Focused Thinking.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -21,20 +21,19 @@
             }
           },
           {
-            "id": "cae67733cfd22c02",
+            "id": "6f4547f65ce4c3d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/Rust.md",
+                "file": "templates/QEC Ideas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Rust.md",
+                "file": "src/Focused Thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Rust.md",
+                "file": "src/Focused Thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/Rust.md"
+                "file": "src/Focused Thinking.md"
               }
             }
           }
@@ -161,8 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cae67733cfd22c02",
+  "active": "590cf3c888f5a038",
   "lastOpenFiles": [
+    "src/Diffused Thinking.md",
+    "src/Focused Thinking.md",
+    "src/Algorithms.md",
+    "templates/QEC Ideas.md",
+    "priv/personal/to-do/Backlog.md",
+    "priv/dev/projects/Projects.md",
+    "priv/personal/to-do/Chores.md",
+    "src/Untitled.md",
+    "src/Rust.md",
     "priv/dev/Road Maps.md",
     "priv/dev/Untitled 2.md",
     "priv/dev/Untitled.md",
@@ -171,26 +179,17 @@
     "priv/Second Brain.md",
     "templates/Daily Notes Template.md",
     "templates/Code Template.md",
-    "templates/QEC Ideas.md",
-    "src/Untitled.md",
-    "src/Algorithms.md",
-    "priv/personal/to-do/Chores.md",
     "priv/personal/to-do/Weeklies.md",
     "priv/daily/09-03-24.md",
     "README.md",
     "priv/daily",
     "priv/personal/to-do/Today-do.md",
     "priv/personal/to-do/TODO.md",
-    "priv/personal/to-do/Backlog.md",
     "priv/personal/sec/Secretary stuff.md",
     "priv/personal/sec",
     "src/Vim Vertical Motions.md",
     "src/HTTP Response Status Codes.md",
     "src/Website.md",
-    "src/Web Application.md",
-    "src/Web.md",
-    "src/Rust Foreword.md",
-    "src/User Interface.md",
     "Untitled",
     "templates",
     "Untitled.canvas",
