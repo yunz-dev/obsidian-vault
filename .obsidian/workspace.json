@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/Focused Thinking.md",
+                "file": "src/Algorithms.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Focused Thinking.md",
+                "file": "src/Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Focused Thinking.md",
+                "file": "src/Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/Focused Thinking.md"
+                "file": "src/Algorithms.md"
               }
             }
           }
@@ -162,14 +162,20 @@
   },
   "active": "590cf3c888f5a038",
   "lastOpenFiles": [
-    "src/Diffused Thinking.md",
-    "src/Focused Thinking.md",
+    "src/Untitled.md",
     "src/Algorithms.md",
+    "src/Cargo.toml.md",
+    "src/Frontend.md",
+    "src/Focused Thinking.md",
+    "src/Vim Advanced Motions.md",
+    "src/Full Stack Development.md",
+    "src/HTTP Response Status Codes.md",
+    "src/Diffused Thinking.md",
+    "templates/Main Idea Template.md",
     "templates/QEC Ideas.md",
     "priv/personal/to-do/Backlog.md",
     "priv/dev/projects/Projects.md",
     "priv/personal/to-do/Chores.md",
-    "src/Untitled.md",
     "src/Rust.md",
     "priv/dev/Road Maps.md",
     "priv/dev/Untitled 2.md",
@@ -183,13 +189,7 @@
     "priv/daily/09-03-24.md",
     "README.md",
     "priv/daily",
-    "priv/personal/to-do/Today-do.md",
-    "priv/personal/to-do/TODO.md",
-    "priv/personal/sec/Secretary stuff.md",
     "priv/personal/sec",
-    "src/Vim Vertical Motions.md",
-    "src/HTTP Response Status Codes.md",
-    "src/Website.md",
     "Untitled",
     "templates",
     "Untitled.canvas",
