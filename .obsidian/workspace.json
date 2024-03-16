@@ -47,14 +47,30 @@
             "id": "857bfc1b58667e41",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "priv/personal/to-do/Todo.md"
+                "file": "src/Algorithms.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "62a480e6719af197",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/Expressjs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "priv/personal/to-do/Todo.md",
+                "file": "src/Expressjs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "priv/personal/to-do/Todo.md",
+                "file": "src/Expressjs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "priv/personal/to-do/Todo.md"
+                "file": "src/Expressjs.md"
               }
             }
           }
@@ -181,20 +197,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "857bfc1b58667e41",
+  "active": "62a480e6719af197",
   "lastOpenFiles": [
+    "src/Algorithms.md",
+    "src/Expressjs.md",
+    "priv/daily/16-03-24.md",
+    "priv/dev/projects/Medium.md",
+    "priv/personal/to-do/Todo.md",
     "src/Javascript.md",
     "src/Arrays.md",
     "src/Associative Collections.md",
     "src/Sequential Collections.md",
     "src/Nodejs.md",
     "priv/personal/to-do/Dailies.md",
-    "src/Algorithms.md",
     "priv/personal/to-do/Chores.md",
     "priv/personal/to-do/Backlog.md",
     "priv/dev/projects/Projects.md",
     "priv/daily/14-03-24.md",
-    "priv/personal/to-do/Todo.md",
     "priv/personal/Work-On.md",
     "priv/personal/dsa.md",
     "src/Figma.md",
@@ -206,9 +225,6 @@
     "src/Cargo.toml.md",
     "src/Frontend.md",
     "src/Focused Thinking.md",
-    "src/Vim Advanced Motions.md",
-    "src/Full Stack Development.md",
-    "src/HTTP Response Status Codes.md",
     "priv/daily",
     "priv/personal/sec",
     "Untitled",
