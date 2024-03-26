@@ -2,7 +2,7 @@
   "vimMode": true,
   "promptDelete": false,
   "showLineNumber": false,
-  "livePreview": false,
+  "livePreview": true,
   "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,
   "newFileLocation": "current"

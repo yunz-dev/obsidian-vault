@@ -11,66 +11,43 @@
             "id": "590cf3c888f5a038",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "priv/personal/to-do/Todo.md"
+                "file": "priv/daily/22-03-24.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
           {
-            "id": "6f4547f65ce4c3d7",
+            "id": "5e3e1b2a6f8b7933",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/Algorithms.md",
+                "file": "src/Binary Search Trees.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           },
           {
-            "id": "3be95fdc3307d7a6",
+            "id": "d28d0dbd59c30729",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "priv/personal/to-do/Dailies.md",
+                "file": "src/Abstract Data Types.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "857bfc1b58667e41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/Algorithms.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "62a480e6719af197",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/Expressjs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Expressjs.md",
+                "file": "src/Abstract Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Expressjs.md",
+                "file": "src/Abstract Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/Expressjs.md"
+                "file": "src/Abstract Data Types.md"
               }
             }
           }
@@ -197,34 +174,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62a480e6719af197",
+  "active": "d28d0dbd59c30729",
   "lastOpenFiles": [
+    "src/Binary Search Trees.md",
+    "src/Set ADT.md",
+    "src/Notation.md",
+    "src/Set.md",
+    "priv/daily/24-03-24.md",
+    "src/Balanced BSTs.md",
+    "src/Abstract Data Types.md",
+    "src/Analysis of Algorithms.md",
+    "src/Recursion.md",
+    "templates/Daily Notes Template.md",
+    "priv/Weekly Quests.md",
+    "priv/daily/22-03-24.md",
+    "priv/personal/to-do/Todo.md",
     "src/Algorithms.md",
+    "priv/personal/to-do/Dailies.md",
+    "src/Cargo.md",
+    "priv/daily/20-03-24.md",
+    "priv/dev/projects/Medium.md",
+    "priv/daily/19-03-24.md",
     "src/Expressjs.md",
     "priv/daily/16-03-24.md",
-    "priv/dev/projects/Medium.md",
-    "priv/personal/to-do/Todo.md",
     "src/Javascript.md",
     "src/Arrays.md",
     "src/Associative Collections.md",
     "src/Sequential Collections.md",
     "src/Nodejs.md",
-    "priv/personal/to-do/Dailies.md",
-    "priv/personal/to-do/Chores.md",
-    "priv/personal/to-do/Backlog.md",
-    "priv/dev/projects/Projects.md",
-    "priv/daily/14-03-24.md",
-    "priv/personal/Work-On.md",
-    "priv/personal/dsa.md",
-    "src/Figma.md",
-    "templates/QEC Ideas.md",
-    "priv/personal/to-do/TODO.md",
-    "priv/personal/to-do/Today-do.md",
-    "priv/daily/13-03-24.md",
-    "priv/daily/12-03-24.md",
-    "src/Cargo.toml.md",
-    "src/Frontend.md",
-    "src/Focused Thinking.md",
     "priv/daily",
     "priv/personal/sec",
     "Untitled",
